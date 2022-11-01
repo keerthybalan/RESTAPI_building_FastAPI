@@ -1,7 +1,10 @@
 # RESTAPI_building_FastAPI
 
-##Requirements
+## Requirements
 
 ```
 python -m pip install fastapi
+```
+```
+python -m pip install uvicorn
 ```
